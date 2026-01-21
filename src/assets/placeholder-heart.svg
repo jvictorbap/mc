@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200" fill="none">
+  <rect width="320" height="200" rx="24" fill="#FCE7F3"/>
+  <path d="M160 150c-32-26-56-45-56-72 0-18 14-32 32-32 12 0 22 6 28 15 6-9 16-15 28-15 18 0 32 14 32 32 0 27-24 46-56 72z" fill="#F472B6"/>
+  <text x="160" y="28" text-anchor="middle" font-family="Arial" font-size="14" fill="#9D174D">Foto do casal (placeholder)</text>
+</svg>
